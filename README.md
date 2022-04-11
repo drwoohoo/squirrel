@@ -4,3 +4,5 @@ The objective of the Squirrel app is to sample colors from an imported image and
 The Color_Cycle code is included as a reference to working with the exported color palette arrays saved from Squirrel.
 
 Squirrel was developed in Processing (https://processing.org).
+
+A video demo of squirrel can be viewed here: https://www.youtube.com/watch?v=EJGTbW8Q74I
